@@ -642,6 +642,7 @@ Rhythm Sharma
 - [Krombopulos](https://github.com/krombopulos-eddie)
 - [Muskan](https://github.com/Muskan-Git-Code)
 - [Pray Raskapoorwala]@DevSocPI
+- [Vladimir Glinskikh](https://github.com/vladimirGlinskikh)
 - [Urmil Bhavsar](https://github.com/urmil22)
 - [Abhay Kshirsagar](https://github.com/AK6263/)
 - [Vedant Garhwal](https://github.com/vedant21-2005)
